@@ -1,0 +1,11 @@
+yfinance==0.2.52
+xgboost==2.1.1
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.5.1
+fastapi==0.111.0
+uvicorn==0.30.1
+pydantic==2.8.2
+pytest==8.3.2
+flake8==7.1.1
+joblib==1.4.2
